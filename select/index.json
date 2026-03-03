@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "芸術をやろう!",
+  "base_artist": "離想宮",
+  "createdAt": "2026-03-03T12:33:26.272424Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "芸術をやろう!",
+      "artist": "離想宮",
+      "has_synced": false,
+      "path": "select/pl_01_芸術をやろう!_離想宮.txt"
+    }
+  ]
+}
